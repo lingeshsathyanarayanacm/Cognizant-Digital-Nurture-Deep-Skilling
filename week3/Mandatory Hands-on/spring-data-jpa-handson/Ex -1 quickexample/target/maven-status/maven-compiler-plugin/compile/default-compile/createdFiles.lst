@@ -1,0 +1,4 @@
+com\quickexample\model\Country.class
+com\quickexample\service\CountryService.class
+com\quickexample\OrmLearnApplication.class
+com\quickexample\repository\CountryRepository.class
