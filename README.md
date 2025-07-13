@@ -1,60 +1,90 @@
-# Cognizant Digital Nurture – Deep Skilling Program
+# 🚀 Cognizant Digital Nurture – Deep Skilling Program
 
-As part of Cognizant's Deep Skilling program, I successfully completed extensive hands-on training in core software engineering practices and modern enterprise development using Java and Spring Boot. Below is a summary of the technologies, tools, and methodologies I mastered during the program:
-
----
-
-## 🔹 Core Concepts & Principles
-- **Design Principles & Patterns**
-- **Test-Driven Development (TDD)** using JUnit 5 and Mockito
-- **Logging** with SLF4J
+As part of **Cognizant's Digital Nurture Deep Skilling Program**, I have undergone immersive training to strengthen my backend development expertise, applying industry best practices and modern Java technologies. This README outlines the key areas I focused on and the technologies I mastered.
 
 ---
 
-## 🔹 Backend Development
-- **Spring Core** and **Dependency Injection**
-- **Spring Boot 3** for rapid application development
-- **Spring Data JPA** with Hibernate for ORM
-- **Spring REST** for creating robust RESTful APIs
+## 🧠 Core Software Engineering
+
+- 🧩 **Design Principles & Patterns**  
+  Applied SOLID, DRY, and other design principles to build maintainable and scalable applications.
+
+- ✅ **Test-Driven Development (TDD)** using JUnit 5 & Mockito  
+  Practiced writing test cases before code, ensuring quality and coverage.
+
+- 📄 **Logging with SLF4J**  
+  Implemented structured and consistent logging for production-grade applications.
 
 ---
 
-## 🔹 Database Technologies
-- **PL/SQL Programming**
-- **MySQL/PostgreSQL** integration with Spring Boot (via JPA)
+## 💻 Backend Development with Spring
+
+- 🌱 **Spring Core & Dependency Injection**  
+  Built loosely-coupled, testable components using IoC and DI.
+
+- ⚙️ **Spring Boot 3**  
+  Developed RESTful APIs and microservices using Spring Boot’s auto-configuration and embedded server features.
+
+- 🗃️ **Spring Data JPA with Hibernate**  
+  Implemented CRUD operations, custom queries, and database interactions seamlessly with ORM.
+
+- 🌐 **Spring REST**  
+  Designed and exposed APIs using best practices (status codes, validation, HATEOAS-ready structures).
 
 ---
 
-## 🔹 Development Tools & Build Management
-- **Maven** for build automation and dependency management
+## 🗄️ Database Technologies
+
+- 🛢️ **PL/SQL Programming**  
+  Wrote complex queries, procedures, and functions in relational databases.
+
+- 🧩 **Database Integration**  
+  Integrated databases with Spring Boot using JPA and Hibernate.
 
 ---
 
-## 🔹 Computer Science Fundamentals
-- **Data Structures and Algorithms**
-  - Focused on problem-solving and optimizing code
-  - Learned real-world applications in backend logic and APIs
+## 🧮 Computer Science Foundations
+
+- 📊 **Data Structures & Algorithms**  
+  Solved algorithmic problems to enhance logical thinking, time/space optimization, and coding efficiency.
 
 ---
 
-## 💼 Outcome
-This program empowered me with industry-relevant backend development skills, enabled me to write clean, maintainable, and testable Java code, and prepared me for real-world software engineering projects in enterprise environments.
+## 🧰 Tools & Technologies
+
+| Tool         | Purpose                                |
+|--------------|----------------------------------------|
+| 💡 Eclipse / IntelliJ | Java IDE for development         |
+| 🧪 JUnit + Mockito  | Unit testing with TDD             |
+| 🔧 Maven            | Build automation & dependency mgmt |
+| 🔍 Postman          | API testing and validation         |
+| 🛢️ MySQL Workbench | Database design and querying       |
+| 🌐 Git & GitHub     | Version control and collaboration  |
 
 ---
 
-## 🛠 Tools Used
-- Eclipse / IntelliJ IDEA
-- Maven
-- Git & GitHub
-- Postman
-- MySQL Workbench
+## 📈 Program Outcome
+
+✔️ Gained real-world experience building scalable Java applications.  
+✔️ Improved code quality with TDD and clean architecture.  
+✔️ Ready to contribute to enterprise-grade backend systems using Spring Boot and modern Java stack.
 
 ---
 
-## 🚀 Projects and Hands-On Work
-I applied these skills in building full-stack applications, RESTful services, and performing unit testing using TDD principles. All code was written using Java 17 and Spring Boot 3.
+## 🧑‍💻 Projects & Codebase
+
+Throughout the program, I implemented:
+- RESTful Web Services
+- CRUD-based database applications
+- Unit-tested modules
+- Modular backend logic following SOLID and TDD
+
+> 📌 *This training has equipped me with the confidence and skills to thrive in modern enterprise Java development roles.*
 
 ---
 
-📌 *This README reflects the professional training I received under Cognizant’s Digital Nurture program and demonstrates my readiness for enterprise-grade backend development roles.*
+📎 **[Let’s connect on LinkedIn](https://www.linkedin.com/in/lingesh-sathya-narayana-a96913258/)**  
+📁 **[Explore my GitHub Projects](https://github.com/lingeshsathyanarayanacm/)** _(update these with your actual links)_
+
+
 
