@@ -1,0 +1,18 @@
+• Explain the need and benefits of component life cycle
+
+The component life cycle allows developers to hook into specific phases of a component's existence (mounting, updating, unmounting) to perform actions like data fetching, cleanup, and DOM updates. It improves performance, enhances control, and ensures cleaner and more maintainable code.
+
+
+
+• Identify various life cycle hook methods
+
+constructor(), componentDidMount(), shouldComponentUpdate(), componentDidUpdate(), componentWillUnmount(), componentDidCatch(), getDerivedStateFromProps(), getSnapshotBeforeUpdate()
+
+
+
+• List the sequence of steps in rendering a component
+
+constructor()
+getDerivedStateFromProps()
+render()
+componentDidMount()
