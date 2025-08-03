@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.controls {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #4a6fa5;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #3a5a8c;
+}
+
+.content {
+  margin: 30px 0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  min-height: 300px;
+}
+
+.additional-info {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #f0f8ff;
+  border-radius: 8px;
+}
+
+.stats {
+  margin-top: 15px;
+  font-style: italic;
+  color: #666;
+}
+
+/* Book Details Styles */
+.book-details ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.book-details li {
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 8px;
+  width: 250px;
+  text-align: left;
+}
+
+/* Blog Details Styles */
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.blog-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+/* Course Details Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
